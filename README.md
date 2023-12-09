@@ -6,6 +6,13 @@
     "username": "string",
     "email": "string",
     "hash": "string",
+    "token": "string[]",
+    "createdAt": "Date",
+    "updatedAt": "Date",
+    "otpNow?": {
+        "otp": "string",
+        "expiresAt": "Date"
+    }
 }
 ```
 
